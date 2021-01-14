@@ -11,7 +11,7 @@ The printing dimesions should be as follows for each file,
 **PDMS_hole_puncher:**   _**X:** 64 mm **Y:** 55 mm **Z:** 3 mm_ \
 **PDMS_washer:**   _**X:** 4 mm **Y:** 10 mm **Z:** 55 mm_ 
 
-Quantity to be printed od each file to complete your stretcher:
+Quantity to be printed of each file to complete your stretcher:
 
 **Motor_cover:**  one \
 **Motor_hand:**   one\
